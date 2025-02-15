@@ -1,5 +1,3 @@
-# Banking_App
-
 # Banking System GUI
 
 This is a simple Banking System GUI built using Python and Tkinter. It allows users to create bank accounts, deposit funds, withdraw funds, and check account details.
